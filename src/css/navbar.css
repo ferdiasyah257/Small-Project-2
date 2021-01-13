@@ -1,0 +1,16 @@
+.namaToko{
+    text-decoration: none;
+    color: black;
+}
+
+.gambarPencarian {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.keranjang {
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
+}

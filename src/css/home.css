@@ -1,0 +1,46 @@
+.text1 {
+    font-size: 50px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+  }
+
+.tombol {
+    text-decoration: none;
+    color: white;
+}
+
+.text{
+    font-size: 30px;
+    text-align: right;
+    margin-right: 100px;
+}
+
+.text2{
+    margin-top: 30px;
+    text-align: right;
+    color: black;
+    margin-right: 100px;
+    font-size: 15px;
+    border-top: solid #C4C4C4;
+}
+
+.gambar {
+    opacity: 0.8;
+    margin-top: 30px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+.column {
+    position: relative;
+    float: right;
+    width: 25%;
+    padding: 15px;
+  }
+
+.bottom-right {
+    position: absolute;
+    bottom: 20px;
+    right: 25px;
+    color: white;
+}

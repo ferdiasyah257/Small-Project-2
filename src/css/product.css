@@ -1,0 +1,11 @@
+.panahTambah {
+    transform: rotate(90deg);
+}
+
+.panahKurang {
+    transform: rotate(-90deg);
+}
+
+select {
+    border:solid white
+ }

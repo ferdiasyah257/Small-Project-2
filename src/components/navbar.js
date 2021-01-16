@@ -14,12 +14,13 @@ const navbar = () => {
             <div><Link to="./">Home</Link></div>
             <div><Link to="./shop">Product</Link></div>
             <div><Link to="./about">About</Link></div>
-            <div><Link to="./">Contact</Link></div>
-            
+                        
             <form className="d-flex">
                 <input className="form-control" type="search" placeholder="Search"></input>
                 <img className="gambarPencarian" style={{width:'30px', height:'30px'}} src={Pencarian}></img>
-                <img className="keranjang" src={Keranjang}></img>
+                <Link to="./product">
+                    <img className="keranjang" src={Keranjang}></img>
+                </Link>
                 <Link to="./Login">
                     <div className="btn btn-light">Login</div>
                 </Link>

@@ -44,6 +44,7 @@ const shop = () => {
                                 </Link>
                             </div>
 
+                            <Link to="./product">
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image2}></img>
                                 <div className="bottom-left">
@@ -51,7 +52,10 @@ const shop = () => {
                                         Pakaian
                                 </div>
                             </div>
+                            </Link>
 
+
+                            <Link to="./product">
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image3}></img>
                                 <div className="bottom-left">
@@ -59,7 +63,9 @@ const shop = () => {
                                         Fashion
                                 </div>
                             </div>
+                            </Link>
 
+                            <Link to="./product">
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image1}></img>
                                 <div className="bottom-left">
@@ -67,7 +73,9 @@ const shop = () => {
                                         Fasjion
                                 </div>
                             </div>
+                            </Link>
 
+                            <Link to="./product">
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image2}></img>
                                 <div className="bottom-left">
@@ -75,7 +83,9 @@ const shop = () => {
                                         Pakaian
                                 </div>
                             </div>
+                            </Link>
 
+                            <Link to="./product">
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image3}></img>
                                 <div className="bottom-left">
@@ -83,7 +93,8 @@ const shop = () => {
                                         Elektronik
                                 </div>
                             </div>
-
+                            </Link>
+                            <Link to="./product">
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image1}></img>
                                 <div className="bottom-left">
@@ -91,7 +102,9 @@ const shop = () => {
                                         Handphone
                                 </div>
                             </div>
+                            </Link>
 
+                            <Link to="./product">
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image2}></img>
                                 <div className="bottom-left">
@@ -99,6 +112,7 @@ const shop = () => {
                                         Pakaian
                                 </div>
                             </div>
+                            </Link>
 
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image3}></img>
@@ -108,6 +122,7 @@ const shop = () => {
                                 </div>
                             </div>
 
+                            <Link to="./product">
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image1}></img>
                                 <div className="bottom-left">
@@ -115,7 +130,9 @@ const shop = () => {
                                         Fashion
                                 </div>
                             </div>
+                            </Link>
 
+                            <Link to="./product">
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image2}></img>
                                 <div className="bottom-left">
@@ -123,7 +140,9 @@ const shop = () => {
                                         Pakaian
                                 </div>
                             </div>
+                            </Link>
 
+                            <Link to="./product">
                             <div className="column">
                                 <img style={{width:"100%"}} src={Image3}></img>
                                 <div className="bottom-left">
@@ -131,6 +150,7 @@ const shop = () => {
                                         Pakaian
                                 </div>
                             </div>
+                            </Link>
 
                         </div>
                     </div>

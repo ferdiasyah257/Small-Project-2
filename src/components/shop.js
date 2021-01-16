@@ -44,113 +44,134 @@ const shop = () => {
                                 </Link>
                             </div>
 
-                            <Link to="./product">
+                            
                             <div className="column">
+                            <Link to="./product">
                                 <img style={{width:"100%"}} src={Image2}></img>
                                 <div className="bottom-left">
                                     <b>Celana</b><br></br>
                                         Pakaian
                                 </div>
-                            </div>
                             </Link>
+                            </div>
+                            
 
 
-                            <Link to="./product">
+                            
                             <div className="column">
+                            <Link to="./product">
                                 <img style={{width:"100%"}} src={Image3}></img>
                                 <div className="bottom-left">
                                     <b>Kacamata</b><br></br>
                                         Fashion
                                 </div>
-                            </div>
                             </Link>
-
-                            <Link to="./product">
+                            </div>
+                            
+                            
                             <div className="column">
+                            <Link to="./product">
                                 <img style={{width:"100%"}} src={Image1}></img>
                                 <div className="bottom-left">
                                      <b>Gelang</b><br></br>
                                         Fasjion
                                 </div>
+                                </Link>
                             </div>
-                            </Link>
+                            
 
-                            <Link to="./product">
+                            
                             <div className="column">
+                            <Link to="./product">
                                 <img style={{width:"100%"}} src={Image2}></img>
                                 <div className="bottom-left">
                                     <b>Baju</b><br></br>
                                         Pakaian
                                 </div>
+                                </Link>
                             </div>
-                            </Link>
+                            
 
-                            <Link to="./product">
+                            
                             <div className="column">
+                            <Link to="./product">
                                 <img style={{width:"100%"}} src={Image3}></img>
                                 <div className="bottom-left">
                                     <b>Laptop</b><br></br>
                                         Elektronik
                                 </div>
-                            </div>
                             </Link>
-                            <Link to="./product">
+                            </div>
+                            
+                            
                             <div className="column">
+                            <Link to="./product">
                                 <img style={{width:"100%"}} src={Image1}></img>
                                 <div className="bottom-left">
                                     <b>Smartphone</b><br></br>
                                         Handphone
                                 </div>
-                            </div>
                             </Link>
+                            </div>
+                            
 
-                            <Link to="./product">
+                            
                             <div className="column">
+                            <Link to="./product">
                                 <img style={{width:"100%"}} src={Image2}></img>
                                 <div className="bottom-left">
                                     <b>Jacket</b><br></br>
                                         Pakaian
                                 </div>
-                            </div>
                             </Link>
+                            </div>
+                            
 
                             <div className="column">
+                                <Link to="./product">
                                 <img style={{width:"100%"}} src={Image3}></img>
                                 <div className="bottom-left">
                                     <b>Celana Training</b><br></br>
                                         Pakaian
                                 </div>
+                                </Link>
                             </div>
 
-                            <Link to="./product">
+                            
                             <div className="column">
+                            <Link to="./product">
                                 <img style={{width:"100%"}} src={Image1}></img>
                                 <div className="bottom-left">
                                     <b>Kacamata Minus</b><br></br>
                                         Fashion
                                 </div>
+                                </Link>
                             </div>
-                            </Link>
+                            
 
-                            <Link to="./product">
+                            
                             <div className="column">
+                            <Link to="./product">
                                 <img style={{width:"100%"}} src={Image2}></img>
                                 <div className="bottom-left">
                                     <b>Baju Anak</b><br></br>
                                         Pakaian
                                 </div>
-                            </div>
                             </Link>
+                            </div>
+                            
 
-                            <Link to="./product">
+                            
                             <div className="column">
+                            <Link to="./product">
                                 <img style={{width:"100%"}} src={Image3}></img>
                                 <div className="bottom-left">
                                     <b>Celana Pendek</b><br></br>
                                         Pakaian
                                 </div>
-                            </div>
                             </Link>
+                            </div>
+                            
 
                         </div>
                     </div>

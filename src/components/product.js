@@ -6,7 +6,6 @@ import Navbar from './navbar';
 import Footer from './footer';
 import '../App.css';
 import '../css/product.css';
-import Image from './image/4842 1.png'
 import Panah from './image/triangle.svg'
 import primeImage from "./image/4842 1.png";
 import primeImage2 from "./image/download (2).jpg";
@@ -65,7 +64,9 @@ const Product = ({products, counter, tambahSatu, kurangSatu}) => {
                     <div >Tambah Item: <img src={Panah} className="panahKurang" onClick={() => kurangSatu()}></img> {counter} <img src={Panah} className="panahTambah" onClick={() => tambahSatu()}></img> 
                     </div>
 
+                    <Link to={{pathname: '/buy', search:`id=${productIndex}`}}>
                     <div className="btn btn-dark" style={{marginTop:"50px"}}>Buy Now</div>
+                    </Link>
                 </div>
             </div>
             <Footer></Footer>

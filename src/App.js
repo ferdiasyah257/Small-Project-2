@@ -6,6 +6,8 @@ import { shop } from "./components/shop";
 import Product from "./components/product";
 import { Login } from "./components/login";
 import { Register } from "./components/register";
+import  Buy  from "./components/buy";
+import { About } from "./components/about";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -20,6 +22,8 @@ function App() {
         <Route component={Product} path='/product' />
         <Route component={Login} path='/Login' />
         <Route component={Register} path='/register' />
+        <Route component={Buy} path='/buy' />
+        <Route component={About} path='/about' />
       </Switch>
     </Router>
   );

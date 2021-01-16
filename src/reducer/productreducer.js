@@ -51,7 +51,7 @@ const listProducts = [{
 const initialState = {
     products: listProducts,
     product: {
-        productId: 0,
+        productId: 2,
         productColor: "",
         productTitle: "",
         productName: "",

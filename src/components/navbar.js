@@ -13,7 +13,7 @@ const navbar = () => {
             <div style={{fontSize:"40px"}}><Link to="./"><span className="namaToko">F-Shop</span></Link></div>
             <div><Link to="./">Home</Link></div>
             <div><Link to="./shop">Product</Link></div>
-            <div><Link to="./">About</Link></div>
+            <div><Link to="./about">About</Link></div>
             <div><Link to="./">Contact</Link></div>
             
             <form className="d-flex">
